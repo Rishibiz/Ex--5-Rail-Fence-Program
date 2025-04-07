@@ -1,6 +1,6 @@
 # Ex--5-Rail-Fence-Program
-## Name : Rishi chandran R
-## Reg No: 212223043005
+### Name : Rishi chandran R
+### Reg No: 212223043005
 # AIM:
 
 To write a C program to implement the rail fence transposition technique.
