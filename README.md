@@ -1,4 +1,4 @@
-# Ex--5-Rail-Fence-Program
+# Ex-5-Rail Fence Program
 ### Name : Rishi chandran R
 ### Reg No: 212223043005
 # AIM:
